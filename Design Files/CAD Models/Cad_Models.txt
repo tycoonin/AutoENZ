@@ -1,0 +1,1 @@
+Contains all CAD models as .STL files.
