@@ -1,1 +1,1 @@
-This folder contains files for the PCB
+This folder contains files for the PCB. The file "fab5.zip" contains the gerber and drill files necessary for the online ordering of the PCB.
